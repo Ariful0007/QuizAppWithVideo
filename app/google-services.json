@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399268404396",
+    "project_id": "quizappwithvideos",
+    "storage_bucket": "quizappwithvideos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399268404396:android:2a66f0681dcc483bb15309",
+        "android_client_info": {
+          "package_name": "com.ariful.quizappwithvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399268404396-9a183d9jmsnbr4l3gs4ltivcn7cug120.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ariful.quizappwithvideo",
+            "certificate_hash": "0a85760045a4fde13eafaf35a6f7b6163d77b737"
+          }
+        },
+        {
+          "client_id": "399268404396-176nbrntemoq4of4dl436lo2vun1b5ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeWljqoHl5Yyt8dgSttHJB1vTchGwjgso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399268404396-176nbrntemoq4of4dl436lo2vun1b5ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

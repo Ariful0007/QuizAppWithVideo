@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">শিক্ষা ল্যাব</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="noconnection">Kindly connect to a WIFI network or enable Mobile Data</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="open">open</string>
+    <string name="usernameReg">Username</string>
+    <string name="emailReg">Email</string>
+    <string name="passwordReg">Password</string>
+    <string name="sign_upReg">Sign up</string>
+    <string name="sign_inLog">Sign in</string>
+    <string name="signin_redirect">Already a member? Sign in!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="signup_redirect">Don\'t have an account? Register here!</string>
+    <string name="recoverpass">Forgot your password?</string>
+    <!-- Login section! -->
+    <!-- Registration section! -->
+    <!-- Recovery section! -->
+
+    <string name="close">close</string>
+    <string name="welcome">Novus</string>
+    <string name="no_internet_msg">No Internet connection found.\nCheck your internet connection or try again</string>
+    <string name="legal">Legal</string>
+    <string name="version">v1.0.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="text">Privacy Policy\nBuilt the শিক্ষা ল্যাব app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
+    \nThis page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.\n
+    If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.\n
+    The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at শিক্ষা ল্যাব unless otherwise defined in this Privacy Policy.\n
+        Information Collection and Use\n
+        For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Ariful Islam,01754201532,arifulpub143@gmail.com. The information that I request will be retained on your device and is not collected by me in any way.\n
+
+The app does use third party services that may collect information used to identify you.\n
+
+Link to privacy policy of third party service providers used by the app\n
+         Google Play Services\n
+         Google Analytics for Firebase\n
+         Firebase Crashlytics\n
+        Log Data\n
+        I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.\n
+        Cookies\n
+        Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device in   internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.\n
+        Service Providers\n
+        I may employ third-party companies and individuals due to the following reasons:\n
+         To facilitate our Service;\n
+         To provide the Service on our behalf;\n
+         To perform Service-related services; or\n
+         To assist us in analyzing how our Service is used.\n
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+\n
+
+Security\n
+        I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+\n
+        Links to Other Sites\n
+        This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+\nChildren’s Privacy
+\n
+        These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+\n
+        Changes to This Privacy Policy\n
+        I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.\n
+
+This policy is effective as of 2021-02-20\n
+
+Contact Us\n
+        If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at arifulpub143@gmail.com.
+        \n
+        This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator.
+
+</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="background_colour">Background Colour</string>
+    <string name="colour_indicator">Colour indicator</string>
+    <string name="colour_navigation_bar">Colour Navigation Bar</string>
+    <string name="confirm_delete">Confirm Deletion</string>
+    <string name="confirm_delete_text">Are you sure you want to delete this note?</string>
+    <string name="empty_list_text">Press the button on the bottom right to add a new note!</string>
+    <string name="accent_colour">Accent Colour</string>
+    <string name="font_colour">Font Colour</string>
+    <string name="new_note">New Note</string>
+    <string name="no">No</string>
+    <string name="note">Note</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="share_to">Share to:</string>
+    <string name="share">Share</string>
+    <string name="sort">Sort</string>
+    <string name="yes">Yes</string>
+    <string name="my_notes">My Notes</string>
+    <!-- FirebaseMessagingService -->
+    <string name="exception">Exception: </string>
+    //calculator
+
+    <string name="app_name2">CalculatorApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="stdCal">Standard Calculator</string>
+    <string name="sciCal">Scientific Calculator</string>
+    <string name="unitCal">Unit Converter</string>
+    <string name="FullCal">Calculator App</string>
+    <string name="title_activity_standard_cal">StandardCal</string>
+    <string name="title_activity_scientific_cal">ScientificCal</string>
+    <string name="title_activity_unit_coverter">UnitCoverter</string>
+    <string name="clear">C</string>
+    <string name="backspace">⌫</string>
+    <string name="divide">÷</string>
+    <string name="sqrt">√</string>
+    <string name="cuberoot">\u221B</string>
+    <string name="square">x²</string>
+    <string name="cube">x\u00B3</string>
+    <string name="tenpow">10\u207F</string>
+    <string name="sininv">sin\u207B\u00B9</string>
+    <string name="cosinv">cos\u207B\u00B9</string>
+    <string name="taninv">tan\u207B\u00B9</string>
+    <string name="posneg">±</string>
+    <string name="arrow">↑</string>
+    <string name="xpown">xⁿ</string>
+    <string name="epown">eⁿ</string>
+    <string name="pi">π</string>
+    <string name="title_activity_unit_area">UnitArea</string>
+    <string name="title_activity_unit_length">UnitLength</string>
+    <string name="title_activity_unit_weight">UnitWeight</string>
+    <string name="title_activity_unit_temperature">UnitTemperature</string>
+    <string name="openBracket">(</string>
+    <string name="closeBracket">)</string>
+    <string name="history">History</string>
+
+    <string-array name="area">
+        <item>Sq. Millimeter</item>
+        <item>Sq. Centimeter</item>
+        <item>Sq Meter</item>
+        <item>Sq. Kilometer</item>
+        <item>Acre</item>
+        <item>Hectare</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>Nanometer</item>
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Inches</item>
+        <item>Foot</item>
+        <item>Yards</item>
+        <item>Mile</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Farenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>Milligrams</item>
+        <item>Centigrams</item>
+        <item>Decigrams</item>
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Metric tonnes</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+    </string-array>
+
+    <string name="title_activity_history">History</string>
+    <string name="deleteHistory">Delete History</string>
+    <string name="mode1">Degree</string>
+    <string name="mode2">Radian</string>
+    <string name="toggle">SWITCH</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="naturalLog">ln</string>
+    <string name="hyperbolicSine">sinh</string>
+    <string name="hyperbolicCosine">cosh</string>
+    <string name="hyperbolicTan">tanh</string>
+    <string name="log">log</string>
+    <string name="Mod">%</string>
+    <string name="inverse">1/x</string>
+    <string name="factorial">x!</string>>
+</resources>
